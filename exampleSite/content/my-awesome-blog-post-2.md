@@ -1,5 +1,5 @@
 +++
-author = "John Doe"
+author = "Shin Okada"
 categories = ["Design Tools"]
 date = 2019-11-07T05:00:00Z
 description = "This is meta description"
