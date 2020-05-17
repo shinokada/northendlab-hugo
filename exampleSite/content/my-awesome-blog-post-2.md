@@ -4,7 +4,7 @@ categories = ["Design Tools"]
 date = 2019-11-07T05:00:00Z
 description = "This is meta description"
 image = "/images/post/post-2.jpg"
-title = "My first awesome second blog post"
+title = "My first awesome blog post"
 type = "post"
 
 +++
